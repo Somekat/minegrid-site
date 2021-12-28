@@ -5,14 +5,12 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+Minegrid is a minecraft server that has a few gamemodes.
 
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+By visiting this website, you agree not to send an attack via Apache Helicopter with Network Access (AHwNA) over to our servers.
 
 
 # Privacy Policy
